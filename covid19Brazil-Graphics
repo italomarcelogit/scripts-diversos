@@ -1,0 +1,58 @@
+from urllib import request
+import json, pandas as pd, matplotlib.pyplot as plt
+
+
+x = request.urlopen('https://covidtrackerapi.bsg.ox.ac.uk/api/v2/stringency/date-range/2020-01-01/2020-06-10')
+a = json.loads(x.read())
+datas = list()
+paises = list()
+confirmados = list()
+mortes = list()
+periodo = list()
+for i in a['data']:
+    for j in a['data'][i]:
+        datas.append(a['data'][i][j]['date_value'])
+        paises.append(a['data'][i][j]['country_code'])
+        confirmados.append(a['data'][i][j]['confirmed'])
+        mortes.append(a['data'][i][j]['deaths'])
+df = pd.DataFrame({
+    'data':datas,
+    'paises':paises,
+    'confirmados': confirmados,
+    'mortes':mortes
+})
+
+mundo = df.copy()
+brasil = df.query("paises == 'BRA'")
+brasil = brasil.dropna()
+brasil = brasil.drop_duplicates()
+brasil['confirmados'] = brasil['confirmados'].astype(int)
+brasil['mortes'] = brasil['mortes'].astype(int)
+
+x=brasil.query("data >= '2020-03-01'")['data']
+y1=brasil.query("data >= '2020-03-01'")['confirmados']
+y2=brasil.query("data >= '2020-03-01'")['mortes']
+
+# Exemplo grafico 1
+#brasil.plot.line(x='data', y='confirmados', color='red', title='Confirmados - COVID-19 - Brasil')
+
+plt.style.use('dark_background')
+fig, (ax1,ax2) = plt.subplots(2,1, figsize=(14,8))
+fig.suptitle('COVID-19 Brasil')
+ax1.set_xticklabels(x, rotation=70, fontsize=8)
+ax1.plot(x, y1, color='orange', marker='o', label='Confirmados')
+for i,j in zip(x,y1):
+    if i.split('-')[2]=='01' or i == x.max():
+        ax1.annotate(str(j),xy=(i,j), color='w', fontsize=14)
+
+ax2.set_xticklabels(x, rotation=70, fontsize=8)
+ax2.plot(x, y2, color='red', marker='o', label='Mortes')
+for i,j in zip(x,y2):
+   if i.split('-')[2]=='01' or i == x.max():
+       ax2.annotate(str(j),xy=(i,j), color='w', fontsize=14)
+
+
+
+
+
+

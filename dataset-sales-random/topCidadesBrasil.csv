@@ -1,0 +1,388 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+São Paulo,Sao Paulo,-23.5587,-46.625,Brazil,BR,BRA,São Paulo,admin,18845000.0,1076532519
+Rio de Janeiro,Rio de Janeiro,-22.925,-43.225,Brazil,BR,BRA,Rio de Janeiro,admin,11748000.0,1076887657
+Belo Horizonte,Belo Horizonte,-19.915,-43.915,Brazil,BR,BRA,Minas Gerais,admin,5575000.0,1076967355
+Porto Alegre,Porto Alegre,-30.05,-51.2,Brazil,BR,BRA,Rio Grande do Sul,admin,3917000.0,1076658221
+Brasília,Brasilia,-15.7833,-47.9161,Brazil,BR,BRA,Distrito Federal,primary,3716996.0,1076144436
+Recife,Recife,-8.0756,-34.9156,Brazil,BR,BRA,Pernambuco,admin,3651000.0,1076137337
+Fortaleza,Fortaleza,-3.75,-38.58,Brazil,BR,BRA,Ceará,admin,3602319.0,1076567885
+Salvador,Salvador,-12.97,-38.48,Brazil,BR,BRA,Bahia,admin,3484000.0,1076923789
+Curitiba,Curitiba,-25.42,-49.32,Brazil,BR,BRA,Paraná,admin,3084000.0,1076701712
+Campinas,Campinas,-22.9,-47.1,Brazil,BR,BRA,São Paulo,,2791000.0,1076145766
+Belém,Belem,-1.45,-48.48,Brazil,BR,BRA,Pará,admin,2167000.0,1076646823
+Goiânia,Goiania,-16.72,-49.3,Brazil,BR,BRA,Goiás,admin,2022000.0,1076034054
+Manaus,Manaus,-3.1,-60.0,Brazil,BR,BRA,Amazonas,admin,1753000.0,1076607274
+Santos,Santos,-23.9537,-46.3329,Brazil,BR,BRA,São Paulo,,1709000.0,1076033299
+Vitória,Vitoria,-20.324,-40.366,Brazil,BR,BRA,Espírito Santo,admin,1704000.0,1076376829
+Niterói,Niteroi,-22.9,-43.1,Brazil,BR,BRA,Rio de Janeiro,,1500513.0,1076501425
+Vila Velha,Vila Velha,-20.3676,-40.318,Brazil,BR,BRA,Espírito Santo,,1209091.0,1076404077
+Vila Velha,Vila Velha,3.2167,-51.2167,Brazil,BR,BRA,Amapá,,1209091.0,1076575691
+Maceió,Maceio,-9.62,-35.73,Brazil,BR,BRA,Alagoas,admin,1186000.0,1076440479
+Natal,Natal,-5.78,-35.24,Brazil,BR,BRA,Rio Grande do Norte,admin,1088000.0,1076697777
+São Luís,Sao Luis,-2.516,-44.266,Brazil,BR,BRA,Maranhão,admin,1038000.0,1076819308
+Florianópolis,Florianopolis,-27.58,-48.52,Brazil,BR,BRA,Santa Catarina,admin,1023000.0,1076190259
+Joinvile,Joinvile,-26.32,-48.8399,Brazil,BR,BRA,Santa Catarina,,988000.0,1076050637
+Natal,Natal,-6.9838,-60.2699,Brazil,BR,BRA,Amazonas,,980588.0,1076336975
+João Pessoa,Joao Pessoa,-7.1011,-34.8761,Brazil,BR,BRA,Paraíba,admin,956000.0,1076922014
+Olinda,Olinda,-8.0,-34.85,Brazil,BR,BRA,Pernambuco,,921840.0,1076784718
+Teresina,Teresina,-5.095,-42.78,Brazil,BR,BRA,Piauí,admin,907000.0,1076727667
+Novo Hamburgo,Novo Hamburgo,-29.7096,-51.14,Brazil,BR,BRA,Rio Grande do Sul,,876990.0,1076221386
+Iguaçu,Iguacu,-22.74,-43.47,Brazil,BR,BRA,Rio de Janeiro,,844583.0,1076339714
+Cuiabá,Cuiaba,-15.5696,-56.085,Brazil,BR,BRA,Mato Grosso,admin,806000.0,1076112309
+Campo Grande,Campo Grande,-20.45,-54.6166,Brazil,BR,BRA,Mato Grosso do Sul,admin,778000.0,1076660445
+São José dos Campos,Sao Jose dos Campos,-23.2,-45.8799,Brazil,BR,BRA,São Paulo,,753769.0,1076783887
+Jaboatão,Jaboatao,-8.11,-35.02,Brazil,BR,BRA,Pernambuco,,702621.0,1076000699
+Aracaju,Aracaju,-10.9,-37.12,Brazil,BR,BRA,Sergipe,admin,685356.0,1076527830
+São José dos Pinhais,Sao Jose dos Pinhais,-25.57,-49.18,Brazil,BR,BRA,Paraná,,665063.0,1076174955
+Santo André,Santo Andre,-23.6528,-46.5278,Brazil,BR,BRA,São Paulo,,662373.0,1076625886
+Canoas,Canoas,-29.92,-51.18,Brazil,BR,BRA,Rio Grande do Sul,,600000.0,1076009922
+Uberlândia,Uberlandia,-18.9,-48.28,Brazil,BR,BRA,Minas Gerais,,563536.0,1076495001
+Sorocaba,Sorocaba,-23.49,-47.47,Brazil,BR,BRA,São Paulo,,563281.0,1076758708
+Ribeirão Prêto,Ribeirao Preto,-21.17,-47.83,Brazil,BR,BRA,São Paulo,,551267.0,1076524478
+Londrina,Londrina,-23.3,-51.18,Brazil,BR,BRA,Paraná,,520238.0,1076723241
+Jundiaí,Jundiai,-23.2,-46.88,Brazil,BR,BRA,São Paulo,,505548.0,1076998392
+Macapá,Macapa,0.033,-51.05,Brazil,BR,BRA,Amapá,admin,499166.0,1076189884
+Feira de Santana,Feira de Santana,-12.25,-38.97,Brazil,BR,BRA,Bahia,,481911.0,1076892244
+Americana,Americana,-22.7499,-47.33,Brazil,BR,BRA,São Paulo,,479472.0,1076922153
+Juiz de Fora,Juiz de Fora,-21.77,-43.375,Brazil,BR,BRA,Minas Gerais,,470193.0,1076006144
+Volta Redonda,Volta Redonda,-22.5196,-44.095,Brazil,BR,BRA,Rio de Janeiro,,456362.0,1076343513
+Foz do Iguaçu,Foz do Iguacu,-25.5235,-54.53,Brazil,BR,BRA,Paraná,,440455.0,1076025805
+Campina Grande,Campina Grande,-7.23,-35.88,Brazil,BR,BRA,Paraíba,,417261.0,1076218697
+Ipatinga,Ipatinga,-19.4796,-42.52,Brazil,BR,BRA,Minas Gerais,,407894.0,1076484921
+Taubaté,Taubate,-23.0195,-45.56,Brazil,BR,BRA,São Paulo,,403560.0,1076146252
+Campos,Campos,-21.75,-41.32,Brazil,BR,BRA,Rio de Janeiro,,387417.0,1076606365
+Caxias do Sul,Caxias do Sul,-29.18,-51.17,Brazil,BR,BRA,Rio Grande do Sul,,381270.0,1076809957
+São José do Rio Prêto,Sao Jose do Rio Preto,-20.7996,-49.39,Brazil,BR,BRA,São Paulo,,374699.0,1076760827
+Piracicaba,Piracicaba,-22.71,-47.64,Brazil,BR,BRA,São Paulo,,342209.0,1076166252
+Bauru,Bauru,-22.33,-49.08,Brazil,BR,BRA,São Paulo,,335024.0,1076905338
+Montes Claros,Montes Claros,-16.72,-43.86,Brazil,BR,BRA,Minas Gerais,,332379.0,1076113275
+Maringá,Maringa,-23.4095,-51.93,Brazil,BR,BRA,Paraná,,328335.0,1076013378
+Itajaí,Itajai,-26.8996,-48.68,Brazil,BR,BRA,Santa Catarina,,327126.0,1076348188
+Pelotas,Pelotas,-31.75,-52.33,Brazil,BR,BRA,Rio Grande do Sul,,320674.0,1076815692
+Itu,Itu,-23.26,-47.3,Brazil,BR,BRA,São Paulo,,320170.0,1076622789
+Anápolis,Anapolis,-16.3196,-48.96,Brazil,BR,BRA,Goiás,,319587.0,1076208869
+Vitória da Conquista,Vitoria da Conquista,-14.85,-40.84,Brazil,BR,BRA,Bahia,,308204.0,1076812020
+Porto Velho,Porto Velho,-8.75,-63.9,Brazil,BR,BRA,Rondônia,admin,306180.0,1076045591
+Franca,Franca,-20.53,-47.39,Brazil,BR,BRA,São Paulo,,305041.0,1076740256
+Blumenau,Blumenau,-26.92,-49.09,Brazil,BR,BRA,Santa Catarina,,293949.0,1076618665
+Ponta Grossa,Ponta Grossa,-25.09,-50.16,Brazil,BR,BRA,Paraná,,292177.0,1076716439
+Limeira,Limeira,-22.5495,-47.4,Brazil,BR,BRA,São Paulo,,289665.0,1076508566
+Petrópolis,Petropolis,-22.5095,-43.2,Brazil,BR,BRA,Rio de Janeiro,,286071.0,1076352504
+Crato,Crato,-7.2296,-39.42,Brazil,BR,BRA,Ceará,,273883.0,1076894967
+Crato,Crato,-7.4639,-63.04,Brazil,BR,BRA,Amazonas,,273883.0,1076425706
+Cabo Frio,Cabo Frio,-22.89,-42.04,Brazil,BR,BRA,Rio de Janeiro,,261721.0,1076449553
+Petrolina,Petrolina,-9.38,-40.51,Brazil,BR,BRA,Pernambuco,,260985.0,1076843988
+Uberaba,Uberaba,-19.78,-47.95,Brazil,BR,BRA,Minas Gerais,,260843.0,1076230331
+Rio Branco,Rio Branco,-9.9666,-67.8,Brazil,BR,BRA,Acre,admin,257642.0,1076391263
+Cascavel,Cascavel,-24.9596,-53.46,Brazil,BR,BRA,Paraná,,257172.0,1076509946
+Governador Valadares,Governador Valadares,-18.87,-41.97,Brazil,BR,BRA,Minas Gerais,,250878.0,1076271003
+Várzea Grande,Varzea Grande,-15.65,-56.14,Brazil,BR,BRA,Mato Grosso,,249752.0,1076359879
+Santa Maria,Santa Maria,-29.6833,-53.8,Brazil,BR,BRA,Rio Grande do Sul,,249219.0,1076178738
+Caruaru,Caruaru,-8.28,-35.98,Brazil,BR,BRA,Pernambuco,,242094.0,1076397475
+Palmas,Palmas,-10.2377,-48.2878,Brazil,BR,BRA,Tocantins,admin,235315.0,1076052802
+Boa Vista,Boa Vista,2.8161,-60.666,Brazil,BR,BRA,Roraima,admin,235150.0,1076621300
+Ilhéus,Ilheus,-14.78,-39.05,Brazil,BR,BRA,Bahia,,230622.0,1076021121
+Santarém,Santarem,-2.4333,-54.7,Brazil,BR,BRA,Pará,,230428.0,1076256494
+Juazeiro do Norte,Juazeiro do Norte,-7.21,-39.32,Brazil,BR,BRA,Ceará,,225230.0,1076912078
+Itabuna,Itabuna,-14.7896,-39.28,Brazil,BR,BRA,Bahia,,221938.0,1076003792
+Imperatriz,Imperatriz,-5.52,-47.49,Brazil,BR,BRA,Maranhão,,218106.0,1076486025
+Marília,Marilia,-22.21,-49.95,Brazil,BR,BRA,São Paulo,,212218.0,1076042151
+Presidente Prudente,Presidente Prudente,-22.12,-51.39,Brazil,BR,BRA,São Paulo,,209502.0,1076239965
+São Carlos,Sao Carlos,-22.02,-47.89,Brazil,BR,BRA,São Paulo,,205035.0,1076673445
+Criciúma,Criciuma,-28.68,-49.39,Brazil,BR,BRA,Santa Catarina,,204217.0,1076000206
+Guaratinguetá,Guaratingueta,-22.82,-45.19,Brazil,BR,BRA,São Paulo,,203580.0,1076125544
+Timon,Timon,-5.115,-42.845,Brazil,BR,BRA,Maranhão,,203157.0,1076758286
+Mossoró,Mossoro,-5.19,-37.34,Brazil,BR,BRA,Rio Grande do Norte,,202583.0,1076461194
+Sete Lagoas,Sete Lagoas,-19.4496,-44.25,Brazil,BR,BRA,Minas Gerais,,201334.0,1076863850
+Divinópolis,Divinopolis,-20.1495,-44.9,Brazil,BR,BRA,Minas Gerais,,193832.0,1076716552
+Rio Grande,Rio Grande,-32.0495,-52.12,Brazil,BR,BRA,Rio Grande do Sul,,187838.0,1076567920
+Arapiraca,Arapiraca,-9.75,-36.67,Brazil,BR,BRA,Alagoas,,187668.0,1076615737
+Cachoeiro de Itapemirim,Cachoeiro de Itapemirim,-20.85,-41.13,Brazil,BR,BRA,Espírito Santo,,187019.0,1076536175
+Rio Claro,Rio Claro,-22.41,-47.56,Brazil,BR,BRA,São Paulo,,180147.0,1076411428
+Passo Fundo,Passo Fundo,-28.25,-52.42,Brazil,BR,BRA,Rio Grande do Sul,,179529.0,1076763340
+Nova Friburgo,Nova Friburgo,-22.26,-42.54,Brazil,BR,BRA,Rio de Janeiro,,171991.0,1076922983
+Araçatuba,Aracatuba,-21.21,-50.45,Brazil,BR,BRA,São Paulo,,170024.0,1076630308
+Barra Mansa,Barra Mansa,-22.56,-44.17,Brazil,BR,BRA,Rio de Janeiro,,169386.0,1076686083
+Marabá,Maraba,-5.35,-49.116,Brazil,BR,BRA,Pará,,166182.0,1076974144
+Carpina,Carpina,-7.84,-35.26,Brazil,BR,BRA,Pernambuco,,165579.0,1076005200
+Lajes,Lajes,-27.8096,-50.31,Brazil,BR,BRA,Santa Catarina,,164676.0,1076517475
+Dourados,Dourados,-22.23,-54.81,Brazil,BR,BRA,Mato Grosso do Sul,,162202.0,1076544482
+Chapecó,Chapeco,-27.1,-52.64,Brazil,BR,BRA,Santa Catarina,,160157.0,1076258255
+Rio Largo,Rio Largo,-9.48,-35.84,Brazil,BR,BRA,Alagoas,,158545.0,1076018887
+Barreiras,Barreiras,-12.14,-45.0,Brazil,BR,BRA,Bahia,,158292.0,1076854674
+Sobral,Sobral,-3.69,-40.35,Brazil,BR,BRA,Ceará,,157996.0,1076577102
+Rondonópolis,Rondonopolis,-16.4695,-54.64,Brazil,BR,BRA,Mato Grosso,,152912.0,1076627175
+Guarapuava,Guarapuava,-25.38,-51.48,Brazil,BR,BRA,Paraná,,150850.0,1076415327
+Poços de Caldas,Pocos de Caldas,-21.78,-46.57,Brazil,BR,BRA,Minas Gerais,,146588.0,1076336113
+Santo Agostinho,Santo Agostinho,-8.29,-35.03,Brazil,BR,BRA,Pernambuco,,146219.0,1076363089
+Macaé,Macae,-22.38,-41.79,Brazil,BR,BRA,Rio de Janeiro,,143029.0,1076074287
+Paranaguá,Paranagua,-25.5279,-48.5345,Brazil,BR,BRA,Paraná,,141013.0,1076265266
+Parnaíba,Parnaiba,-2.91,-41.77,Brazil,BR,BRA,Piauí,,138008.0,1076568871
+Castanhal,Castanhal,-1.2896,-47.93,Brazil,BR,BRA,Pará,,137406.0,1076216938
+Jequié,Jequie,-13.85,-40.08,Brazil,BR,BRA,Bahia,,135574.0,1076558785
+Caxias,Caxias,-4.833,-43.35,Brazil,BR,BRA,Maranhão,,134640.0,1076325693
+Pindamonhangaba,Pindamonhangaba,-22.92,-45.47,Brazil,BR,BRA,São Paulo,,132218.0,1076937468
+Jaraguá do Sul,Jaragua do Sul,-26.48,-49.1,Brazil,BR,BRA,Santa Catarina,,130130.0,1076588128
+Bragança Paulista,Braganca Paulista,-22.95,-46.55,Brazil,BR,BRA,São Paulo,,127676.0,1076245528
+Itapetininga,Itapetininga,-23.59,-48.04,Brazil,BR,BRA,São Paulo,,126243.0,1076425970
+Alagoinhas,Alagoinhas,-12.14,-38.43,Brazil,BR,BRA,Bahia,,124070.0,1076155953
+Uruguaiana,Uruguaiana,-29.7696,-57.09,Brazil,BR,BRA,Rio Grande do Sul,,123480.0,1076680267
+Pôrto Seguro,Porto Seguro,-16.4296,-39.08,Brazil,BR,BRA,Bahia,,123173.0,1076932180
+Barbacena,Barbacena,-21.22,-43.77,Brazil,BR,BRA,Minas Gerais,,122211.0,1076877003
+Jaú,Jau,-22.2896,-48.57,Brazil,BR,BRA,São Paulo,,119206.0,1076312559
+Pouso Alegre,Pouso Alegre,-22.22,-45.94,Brazil,BR,BRA,Minas Gerais,,115201.0,1076082333
+Botucatu,Botucatu,-22.8796,-48.45,Brazil,BR,BRA,São Paulo,,113862.0,1076113865
+Santa Cruz do Sul,Santa Cruz do Sul,-29.71,-52.44,Brazil,BR,BRA,Rio Grande do Sul,,113625.0,1076862896
+Conselheiro Lafaiete,Conselheiro Lafaiete,-20.67,-43.79,Brazil,BR,BRA,Minas Gerais,,111596.0,1076456009
+Garanhuns,Garanhuns,-8.89,-36.5,Brazil,BR,BRA,Pernambuco,,110085.0,1076673653
+Catanduva,Catanduva,-21.14,-48.98,Brazil,BR,BRA,São Paulo,,109612.0,1076772178
+Apucarana,Apucarana,-23.55,-51.47,Brazil,BR,BRA,Paraná,,107085.0,1076256387
+Bagé,Bage,-31.32,-54.1,Brazil,BR,BRA,Rio Grande do Sul,,106098.0,1076515015
+Linhares,Linhares,-19.39,-40.05,Brazil,BR,BRA,Espírito Santo,,105075.0,1076355611
+Barretos,Barretos,-20.55,-48.58,Brazil,BR,BRA,São Paulo,,101220.0,1076042195
+Teófilo Otoni,Teofilo Otoni,-17.87,-41.5,Brazil,BR,BRA,Minas Gerais,,101170.0,1076465745
+Passos,Passos,-20.71,-46.61,Brazil,BR,BRA,Minas Gerais,,98752.0,1076782492
+Ubá,Uba,-21.1196,-42.95,Brazil,BR,BRA,Minas Gerais,,97828.0,1076389529
+Ourinhos,Ourinhos,-22.97,-49.87,Brazil,BR,BRA,São Paulo,,97799.0,1076551408
+Trindade,Trindade,-16.65,-49.5,Brazil,BR,BRA,Goiás,,97521.0,1076815881
+Arapongas,Arapongas,-23.41,-51.43,Brazil,BR,BRA,Paraná,,97512.0,1076623771
+Araguari,Araguari,-18.64,-48.2,Brazil,BR,BRA,Minas Gerais,,96565.0,1076402865
+Corumbá,Corumba,-19.016,-57.65,Brazil,BR,BRA,Mato Grosso do Sul,,96520.0,1076131775
+Erechim,Erechim,-27.63,-52.27,Brazil,BR,BRA,Rio Grande do Sul,,96087.0,1076359548
+Juazeiro,Juazeiro,-9.42,-40.5,Brazil,BR,BRA,Bahia,,95132.0,1076632040
+Ponta Porã,Ponta Pora,-22.53,-55.73,Brazil,BR,BRA,Mato Grosso do Sul,,94331.0,1076647935
+Bento Gonçalves,Bento Goncalves,-29.1695,-51.52,Brazil,BR,BRA,Rio Grande do Sul,,94271.0,1076492877
+Tatuí,Tatui,-23.35,-47.86,Brazil,BR,BRA,São Paulo,,93580.0,1076587962
+Patos,Patos,-7.0196,-37.29,Brazil,BR,BRA,Paraíba,,92575.0,1076232522
+Itaituba,Itaituba,-4.2586,-55.925,Brazil,BR,BRA,Pará,,92308.0,1076849673
+Tubarão,Tubarao,-28.48,-49.02,Brazil,BR,BRA,Santa Catarina,,92275.0,1076663243
+Muriaé,Muriae,-21.13,-42.39,Brazil,BR,BRA,Minas Gerais,,91173.0,1076003733
+Itanhaém,Itanhaem,-24.18,-46.8,Brazil,BR,BRA,São Paulo,,90385.0,1076274068
+Santana do Livramento,Santana do Livramento,-30.88,-55.53,Brazil,BR,BRA,Rio Grande do Sul,,89694.0,1076271841
+Nova Lima,Nova Lima,-19.98,-43.85,Brazil,BR,BRA,Minas Gerais,,88399.0,1076876220
+Brusque,Brusque,-27.13,-48.93,Brazil,BR,BRA,Santa Catarina,,88284.0,1076418225
+Assis,Assis,-22.6596,-50.42,Brazil,BR,BRA,São Paulo,,87471.0,1076782502
+Paulo Afonso,Paulo Afonso,-9.3307,-38.2657,Brazil,BR,BRA,Bahia,,85350.0,1076084498
+Ituiutaba,Ituiutaba,-18.97,-49.46,Brazil,BR,BRA,Minas Gerais,,85345.0,1076873111
+Cáceres,Caceres,-16.05,-57.51,Brazil,BR,BRA,Mato Grosso,,85274.0,1076422654
+Santana,Santana,-0.0396,-51.18,Brazil,BR,BRA,Amapá,,83927.0,1076974952
+Codó,Codo,-4.4796,-43.88,Brazil,BR,BRA,Maranhão,,83288.0,1076537068
+Araxá,Araxa,-19.5796,-46.95,Brazil,BR,BRA,Minas Gerais,,82595.0,1076259402
+Lavras,Lavras,-21.2496,-45.01,Brazil,BR,BRA,Minas Gerais,,81472.0,1076751259
+Avaré,Avare,-23.11,-48.93,Brazil,BR,BRA,São Paulo,,81285.0,1076118860
+Formosa,Formosa,-15.5395,-47.34,Brazil,BR,BRA,Goiás,,81232.0,1076601172
+Itumbiara,Itumbiara,-18.3996,-49.21,Brazil,BR,BRA,Goiás,,79582.0,1076693747
+Abaetetuba,Abaetetuba,-1.7245,-48.8849,Brazil,BR,BRA,Pará,,79420.0,1076974632
+Três Lagoas,Tres Lagoas,-20.79,-51.72,Brazil,BR,BRA,Mato Grosso do Sul,,78712.0,1076281782
+São João del Rei,Sao Joao del Rei,-21.13,-44.25,Brazil,BR,BRA,Minas Gerais,,78592.0,1076559413
+Itaúna,Itauna,-20.06,-44.57,Brazil,BR,BRA,Minas Gerais,,77400.0,1076321811
+São Mateus,Sao Mateus,-18.7296,-39.86,Brazil,BR,BRA,Espírito Santo,,77117.0,1076829621
+Jataí,Jatai,-17.8796,-51.75,Brazil,BR,BRA,Goiás,,76547.0,1076908960
+São João da Boa Vista,Sao Joao da Boa Vista,-21.98,-46.79,Brazil,BR,BRA,São Paulo,,76540.0,1076459561
+Tucuruí,Tucurui,-3.68,-49.72,Brazil,BR,BRA,Pará,,76337.0,1076000076
+Campo Mourão,Campo Mourao,-24.0496,-52.42,Brazil,BR,BRA,Paraná,,75401.0,1076799533
+Cachoeira do Sul,Cachoeira do Sul,-30.03,-52.91,Brazil,BR,BRA,Rio Grande do Sul,,74694.0,1076336795
+Bacabal,Bacabal,-4.23,-44.8,Brazil,BR,BRA,Maranhão,,72372.0,1076125117
+Pôrto União,Porto Uniao,-26.2396,-51.08,Brazil,BR,BRA,Santa Catarina,,71578.0,1076057988
+Goiana,Goiana,-7.5596,-35.0,Brazil,BR,BRA,Pernambuco,,71549.0,1076692421
+Ijuí,Ijui,-28.3895,-53.9199,Brazil,BR,BRA,Rio Grande do Sul,,71202.0,1076683915
+Altamira,Altamira,-3.1996,-52.21,Brazil,BR,BRA,Pará,,70888.0,1076710878
+Paracatu,Paracatu,-17.1996,-46.87,Brazil,BR,BRA,Minas Gerais,,70753.0,1076347421
+Iguatu,Iguatu,-6.36,-39.3,Brazil,BR,BRA,Ceará,,70380.0,1076734026
+Paragominas,Paragominas,-2.9596,-47.49,Brazil,BR,BRA,Pará,,69613.0,1076092855
+Guajará-Mirim,Guajara-Mirim,-10.8,-65.3499,Brazil,BR,BRA,Rondônia,,69586.0,1076692558
+Jabuticabal,Jabuticabal,-21.25,-48.33,Brazil,BR,BRA,São Paulo,,69394.0,1076368201
+Balsas,Balsas,-7.52,-46.05,Brazil,BR,BRA,Maranhão,,68056.0,1076067021
+Santa Inês,Santa Ines,-3.66,-45.39,Brazil,BR,BRA,Maranhão,,67424.0,1076053036
+Rio Negro,Rio Negro,-26.1,-49.79,Brazil,BR,BRA,Paraná,,65597.0,1076653242
+Santo Ângelo,Santo Angelo,-28.3,-54.28,Brazil,BR,BRA,Rio Grande do Sul,,65420.0,1076113692
+Ji-Paraná,Ji-Parana,-10.8333,-61.967,Brazil,BR,BRA,Rondônia,,65016.0,1076313540
+Gurupi,Gurupi,-11.7196,-49.06,Brazil,BR,BRA,Tocantins,,64789.0,1076649238
+Parintins,Parintins,-2.61,-56.74,Brazil,BR,BRA,Amazonas,,64428.0,1076090375
+Curvelo,Curvelo,-18.7596,-44.43,Brazil,BR,BRA,Minas Gerais,,63954.0,1076253887
+Caçador,Cacador,-26.77,-51.02,Brazil,BR,BRA,Santa Catarina,,63726.0,1076703793
+Irecê,Irece,-11.3,-41.87,Brazil,BR,BRA,Bahia,,63626.0,1076348562
+Catalão,Catalao,-18.18,-47.95,Brazil,BR,BRA,Goiás,,63544.0,1076169871
+Vilhena,Vilhena,-12.7166,-60.1166,Brazil,BR,BRA,Rondônia,,63231.0,1076196581
+Valença,Valenca,-13.3596,-39.08,Brazil,BR,BRA,Bahia,,63231.0,1076455406
+Itapeva,Itapeva,-23.9796,-48.88,Brazil,BR,BRA,São Paulo,,62957.0,1076767110
+Tupã,Tupa,-21.93,-50.52,Brazil,BR,BRA,São Paulo,,62035.0,1076738637
+Fernandópolis,Fernandopolis,-20.2696,-50.26,Brazil,BR,BRA,São Paulo,,61931.0,1076205721
+Canela,Canela,-29.36,-50.81,Brazil,BR,BRA,Rio Grande do Sul,,60806.0,1076049094
+Piraçununga,Piracununga,-21.99,-47.43,Brazil,BR,BRA,São Paulo,,60413.0,1076467647
+Pirapora,Pirapora,-17.33,-44.93,Brazil,BR,BRA,Minas Gerais,,60164.0,1076124834
+Caratinga,Caratinga,-19.79,-42.14,Brazil,BR,BRA,Minas Gerais,,60066.0,1076504581
+Itapetinga,Itapetinga,-15.25,-40.25,Brazil,BR,BRA,Bahia,,59721.0,1076005350
+São Borja,Sao Borja,-28.6596,-56.01,Brazil,BR,BRA,Rio Grande do Sul,,59613.0,1076315333
+Caràzinho,Carazinho,-28.29,-52.8,Brazil,BR,BRA,Rio Grande do Sul,,59417.0,1076906274
+Santa Rosa,Santa Rosa,-27.8695,-54.46,Brazil,BR,BRA,Rio Grande do Sul,,59281.0,1076071027
+Manacapuru,Manacapuru,-3.2896,-60.62,Brazil,BR,BRA,Amazonas,,59102.0,1076484341
+Telêmaco Borba,Telemaco Borba,-24.33,-50.62,Brazil,BR,BRA,Paraná,,58880.0,1076867165
+Guanambi,Guanambi,-14.2296,-42.79,Brazil,BR,BRA,Bahia,,58877.0,1076791780
+Ariquemes,Ariquemes,-9.9396,-63.08,Brazil,BR,BRA,Rondônia,,58096.0,1076442639
+Timbaúba,Timbauba,-7.4996,-35.32,Brazil,BR,BRA,Pernambuco,,57534.0,1076430214
+Picos,Picos,-7.08,-41.44,Brazil,BR,BRA,Piauí,,57495.0,1076752928
+Bragança,Braganca,-1.05,-46.77,Brazil,BR,BRA,Pará,,57163.0,1076855072
+Arcoverde,Arcoverde,-8.42,-37.07,Brazil,BR,BRA,Pernambuco,,57163.0,1076499713
+Cruzeiro do Sul,Cruzeiro do Sul,-7.63,-72.67,Brazil,BR,BRA,Acre,,56862.0,1076881427
+Serrinha,Serrinha,-11.6496,-39.01,Brazil,BR,BRA,Bahia,,56829.0,1076832200
+Vacaria,Vacaria,-28.4996,-50.94,Brazil,BR,BRA,Rio Grande do Sul,,56765.0,1076001152
+Janaúba,Janauba,-15.7996,-43.31,Brazil,BR,BRA,Minas Gerais,,56572.0,1076293809
+Formiga,Formiga,-20.46,-45.43,Brazil,BR,BRA,Minas Gerais,,56404.0,1076994550
+Nova Viçosa,Nova Vicosa,-17.88,-39.37,Brazil,BR,BRA,Bahia,,55980.0,1076116919
+Itapipoca,Itapipoca,-3.4995,-39.58,Brazil,BR,BRA,Ceará,,55784.0,1076980375
+Estância,Estancia,-11.2696,-37.45,Brazil,BR,BRA,Sergipe,,55654.0,1076069381
+São Gabriel,Sao Gabriel,-30.32,-54.32,Brazil,BR,BRA,Rio Grande do Sul,,55434.0,1076674208
+Concórdia,Concordia,-27.23,-52.03,Brazil,BR,BRA,Santa Catarina,,55367.0,1076922195
+São José de Ribamar,Sao Jose de Ribamar,-2.55,-44.07,Brazil,BR,BRA,Maranhão,,55265.0,1076976057
+Caicó,Caico,-6.4596,-37.1,Brazil,BR,BRA,Rio Grande do Norte,,54934.0,1076251820
+Penápolis,Penapolis,-21.41,-50.08,Brazil,BR,BRA,São Paulo,,54477.0,1076587749
+Coari,Coari,-4.08,-63.13,Brazil,BR,BRA,Amazonas,,53305.0,1076899406
+Registro,Registro,-24.49,-47.84,Brazil,BR,BRA,São Paulo,,53273.0,1076533111
+Camaquã,Camaqua,-30.8396,-51.81,Brazil,BR,BRA,Rio Grande do Sul,,53169.0,1076449009
+Crateús,Crateus,-5.1656,-40.666,Brazil,BR,BRA,Ceará,,52933.0,1076897989
+Andradina,Andradina,-20.9096,-51.3799,Brazil,BR,BRA,São Paulo,,52406.0,1076417183
+Barra do Garças,Barra do Garcas,-15.8796,-52.26,Brazil,BR,BRA,Mato Grosso,,52398.0,1076425403
+Batatais,Batatais,-20.89,-47.59,Brazil,BR,BRA,São Paulo,,51976.0,1076581214
+Itacoatiara,Itacoatiara,-3.14,-58.44,Brazil,BR,BRA,Amazonas,,51509.0,1076759384
+Tefé,Tefe,-3.36,-64.7,Brazil,BR,BRA,Amazonas,,51437.0,1076049089
+Araguaína,Araguaina,-7.19,-48.21,Brazil,BR,BRA,Tocantins,,50444.0,1076632868
+Quixadá,Quixada,-4.97,-39.02,Brazil,BR,BRA,Ceará,,49328.0,1076173437
+Barra do Corda,Barra do Corda,-5.5096,-45.26,Brazil,BR,BRA,Maranhão,,48901.0,1076745135
+Floriano,Floriano,-6.7696,-43.03,Brazil,BR,BRA,Piauí,,48587.0,1076813660
+Senhor do Bonfim,Senhor do Bonfim,-10.4496,-40.19,Brazil,BR,BRA,Bahia,,48471.0,1076513309
+Rio Verde,Rio Verde,-17.8196,-50.93,Brazil,BR,BRA,Goiás,,48318.0,1076844683
+Ponte Nova,Ponte Nova,-20.4096,-42.9,Brazil,BR,BRA,Minas Gerais,,48187.0,1076567178
+Guaxupé,Guaxupe,-21.29,-46.71,Brazil,BR,BRA,Minas Gerais,,47889.0,1076985230
+Goianésia,Goianesia,-15.3096,-49.13,Brazil,BR,BRA,Goiás,,47883.0,1076636505
+Capanema,Capanema,-1.19,-47.18,Brazil,BR,BRA,Pará,,47766.0,1076799309
+Itamaraju,Itamaraju,-17.0396,-39.5299,Brazil,BR,BRA,Bahia,,47628.0,1076241282
+Campo Belo,Campo Belo,-20.8896,-45.28,Brazil,BR,BRA,Minas Gerais,,47491.0,1076477943
+Itaberaba,Itaberaba,-12.5196,-40.3,Brazil,BR,BRA,Bahia,,47301.0,1076160849
+Breves,Breves,-1.68,-50.49,Brazil,BR,BRA,Pará,,47164.0,1076061751
+Leopoldina,Leopoldina,-21.53,-42.64,Brazil,BR,BRA,Minas Gerais,,46742.0,1076352077
+Irati,Irati,-25.47,-50.66,Brazil,BR,BRA,Paraná,,45830.0,1076276918
+Cametá,Cameta,-2.2396,-49.51,Brazil,BR,BRA,Pará,,45200.0,1076010069
+Piripiri,Piripiri,-4.2696,-41.79,Brazil,BR,BRA,Piauí,,44864.0,1076867493
+Camocim,Camocim,-2.9,-40.85,Brazil,BR,BRA,Ceará,,44481.0,1076563942
+Aracati,Aracati,-4.56,-37.77,Brazil,BR,BRA,Ceará,,44293.0,1076708817
+Inhumas,Inhumas,-16.36,-49.5,Brazil,BR,BRA,Goiás,,44058.0,1076130930
+Imbituba,Imbituba,-28.2296,-48.66,Brazil,BR,BRA,Santa Catarina,,43450.0,1076391605
+Araranguá,Ararangua,-28.94,-49.5,Brazil,BR,BRA,Santa Catarina,,43444.0,1076532332
+Canindé,Caninde,-4.35,-39.31,Brazil,BR,BRA,Ceará,,42720.0,1076519156
+Salgueiro,Salgueiro,-8.0596,-39.13,Brazil,BR,BRA,Pernambuco,,42152.0,1076679973
+Penedo,Penedo,-10.2696,-36.58,Brazil,BR,BRA,Alagoas,,42097.0,1076906021
+Castro,Castro,-24.79,-50.01,Brazil,BR,BRA,Paraná,,42091.0,1076233349
+Brumado,Brumado,-14.21,-41.67,Brazil,BR,BRA,Bahia,,41989.0,1076669684
+Canoinhas,Canoinhas,-26.18,-50.4,Brazil,BR,BRA,Santa Catarina,,41498.0,1076606234
+Jaguaquara,Jaguaquara,-13.53,-39.97,Brazil,BR,BRA,Bahia,,41498.0,1076420862
+Garça,Garca,-22.22,-49.66,Brazil,BR,BRA,São Paulo,,41302.0,1076270928
+Palmeira dos Índios,Palmeira dos Indios,-9.4166,-36.6166,Brazil,BR,BRA,Alagoas,,41095.0,1076723276
+Salinópolis,Salinopolis,-0.6095,-47.34,Brazil,BR,BRA,Pará,,40998.0,1076811443
+Frutal,Frutal,-20.03,-48.94,Brazil,BR,BRA,Minas Gerais,,40931.0,1076112857
+Chapadinha,Chapadinha,-3.7395,-43.36,Brazil,BR,BRA,Maranhão,,40804.0,1076901443
+Aquidauana,Aquidauana,-20.4696,-55.79,Brazil,BR,BRA,Mato Grosso do Sul,,40803.0,1076120417
+Bom Jesus da Lapa,Bom Jesus da Lapa,-13.2495,-43.44,Brazil,BR,BRA,Bahia,,40691.0,1076439517
+Alta Floresta,Alta Floresta,-9.9,-55.91,Brazil,BR,BRA,Mato Grosso,,40466.0,1076069666
+Laguna,Laguna,-28.48,-48.78,Brazil,BR,BRA,Santa Catarina,,39711.0,1076025747
+Russas,Russas,-4.94,-37.98,Brazil,BR,BRA,Ceará,,39465.0,1076843360
+Palmas,Palmas,-26.48,-52.0,Brazil,BR,BRA,Paraná,,39150.0,1076528204
+Mineiros,Mineiros,-17.5695,-52.56,Brazil,BR,BRA,Goiás,,38951.0,1076000916
+Pinheiro,Pinheiro,-2.5196,-45.09,Brazil,BR,BRA,Maranhão,,38893.0,1076349995
+Joaçaba,Joacaba,-27.17,-51.5,Brazil,BR,BRA,Santa Catarina,,38876.0,1076899882
+Remanso,Remanso,-9.5996,-42.11,Brazil,BR,BRA,Bahia,,37945.0,1076051035
+Nanuque,Nanuque,-17.84,-40.35,Brazil,BR,BRA,Minas Gerais,,37824.0,1076083471
+Diamantina,Diamantina,-18.24,-43.61,Brazil,BR,BRA,Minas Gerais,,37343.0,1076865092
+Rosário do Sul,Rosario do Sul,-30.25,-54.92,Brazil,BR,BRA,Rio Grande do Sul,,36721.0,1076900712
+Cristalina,Cristalina,-16.77,-47.61,Brazil,BR,BRA,Goiás,,36531.0,1076014539
+Guaíra,Guaira,-24.09,-54.27,Brazil,BR,BRA,Paraná,,36426.0,1076687981
+São Francisco do Sul,Sao Francisco do Sul,-26.2396,-48.6,Brazil,BR,BRA,Santa Catarina,,36224.0,1076452788
+Açu,Acu,-5.5796,-36.9101,Brazil,BR,BRA,Rio Grande do Norte,,36125.0,1076000524
+Oriximiná,Oriximina,-1.7596,-55.87,Brazil,BR,BRA,Pará,,35581.0,1076567469
+Barreiros,Barreiros,-8.8296,-35.2,Brazil,BR,BRA,Pernambuco,,35565.0,1076661261
+Xique-Xique,Xique-Xique,-10.82,-42.73,Brazil,BR,BRA,Bahia,,35433.0,1076763009
+Jacarèzinho,Jacarezinho,-23.1599,-49.98,Brazil,BR,BRA,Paraná,,35090.0,1076955757
+Itapecuru Mirim,Itapecuru Mirim,-3.4,-44.36,Brazil,BR,BRA,Maranhão,,34943.0,1076422017
+Januária,Januaria,-15.48,-44.37,Brazil,BR,BRA,Minas Gerais,,34811.0,1076924780
+Osório,Osorio,-29.88,-50.27,Brazil,BR,BRA,Rio Grande do Sul,,34628.0,1076367566
+Morrinhos,Morrinhos,-17.73,-49.11,Brazil,BR,BRA,Goiás,,34143.0,1076391164
+Coroatá,Coroata,-4.1296,-44.15,Brazil,BR,BRA,Maranhão,,34129.0,1076890180
+Capitão Poço,Capitao Poco,-1.7496,-47.09,Brazil,BR,BRA,Pará,,32704.0,1076870027
+Maués,Maues,-3.3896,-57.72,Brazil,BR,BRA,Amazonas,,32561.0,1076490155
+Paranaíba,Paranaiba,-19.6796,-51.2,Brazil,BR,BRA,Mato Grosso do Sul,,32217.0,1076355277
+Bocaiúva,Bocaiuva,-17.1096,-43.81,Brazil,BR,BRA,Minas Gerais,,32114.0,1076639320
+São Luís Gonzaga,Sao Luis Gonzaga,-28.41,-54.96,Brazil,BR,BRA,Rio Grande do Sul,,31798.0,1076320357
+Campo Maior,Campo Maior,-4.82,-42.18,Brazil,BR,BRA,Piauí,,31739.0,1076002814
+Jacareacanga,Jacareacanga,-6.2666,-57.65,Brazil,BR,BRA,Pará,,31661.0,1076980493
+Barra do Bugres,Barra do Bugres,-15.0696,-57.19,Brazil,BR,BRA,Mato Grosso,,31311.0,1076717726
+Tucano,Tucano,-10.9696,-38.79,Brazil,BR,BRA,Bahia,,31203.0,1076227914
+Presidente Dutra,Presidente Dutra,-5.25,-44.52,Brazil,BR,BRA,Alagoas,,30330.0,1076660845
+Grajaú,Grajau,-5.81,-46.15,Brazil,BR,BRA,Maranhão,,30217.0,1076344134
+Novo Horizonte,Novo Horizonte,-21.4596,-49.22,Brazil,BR,BRA,São Paulo,,30158.0,1076842025
+Iturama,Iturama,-19.73,-50.2,Brazil,BR,BRA,Minas Gerais,,29805.0,1076049375
+Jaguarão,Jaguarao,-32.56,-53.37,Brazil,BR,BRA,Rio Grande do Sul,,29613.0,1076878261
+Pontes e Lacerda,Pontes e Lacerda,-15.2196,-59.35,Brazil,BR,BRA,Mato Grosso,,29381.0,1076490162
+Almenara,Almenara,-16.17,-40.7,Brazil,BR,BRA,Minas Gerais,,29333.0,1076953924
+Tauá,Taua,-5.9995,-40.31,Brazil,BR,BRA,Ceará,,29188.0,1076825475
+Acaraú,Acarau,-2.8896,-40.12,Brazil,BR,BRA,Ceará,,28389.0,1076016462
+Ubaitaba,Ubaitaba,-14.3,-39.33,Brazil,BR,BRA,Bahia,,28375.0,1076532739
+Icó,Ico,-6.4,-38.85,Brazil,BR,BRA,Ceará,,28323.0,1076569458
+Iporá,Ipora,-16.45,-51.13,Brazil,BR,BRA,Goiás,,28254.0,1076392298
+Santa Cruz,Santa Cruz,-6.22,-36.03,Brazil,BR,BRA,Rio Grande do Norte,,27775.0,1076706078
+Santa Vitória do Palmar,Santa Vitoria do Palmar,-33.52,-53.37,Brazil,BR,BRA,Rio Grande do Sul,,27775.0,1076114405
+Óbidos,Obidos,-1.91,-55.52,Brazil,BR,BRA,Pará,,27587.0,1076197849
+Niquelândia,Niquelandia,-14.4696,-48.47,Brazil,BR,BRA,Goiás,,27541.0,1076682103
+Colíder,Colider,-10.8173,-55.4506,Brazil,BR,BRA,Mato Grosso,,27139.0,1076780919
+Conceição do Araguaia,Conceicao do Araguaia,-8.25,-49.29,Brazil,BR,BRA,Pará,,27115.0,1076224782
+Aripuanã,Aripuana,-9.17,-60.64,Brazil,BR,BRA,Mato Grosso,,26983.0,1076078271
+Viana,Viana,-3.2096,-45.0,Brazil,BR,BRA,Maranhão,,26689.0,1076423280
+Miracema,Miracema,-21.41,-42.2,Brazil,BR,BRA,Rio de Janeiro,,26684.0,1076359191
+Ipu,Ipu,-4.3196,-40.7201,Brazil,BR,BRA,Ceará,,26678.0,1076972725
+Canavieiras,Canavieiras,-15.64,-38.96,Brazil,BR,BRA,Bahia,,26375.0,1076258532
+Alenquer,Alenquer,-1.9396,-54.79,Brazil,BR,BRA,Pará,,26290.0,1076529970
+Sena Madureira,Sena Madureira,-9.07,-68.67,Brazil,BR,BRA,Acre,,26192.0,1076899075
+Granja,Granja,-3.1195,-40.84,Brazil,BR,BRA,Ceará,,25879.0,1076052166
+Pimenta Bueno,Pimenta Bueno,-11.64,-61.21,Brazil,BR,BRA,Rondônia,,25762.0,1076267246
+Lapa,Lapa,-25.76,-49.73,Brazil,BR,BRA,Paraná,,25621.0,1076904800
+São Lourenço do Sul,Sao Lourenco do Sul,-31.37,-51.98,Brazil,BR,BRA,Rio Grande do Sul,,25340.0,1076758883
+Colinas,Colinas,-6.0395,-44.24,Brazil,BR,BRA,Maranhão,,25158.0,1076657010
+Pires do Rio,Pires do Rio,-17.2995,-48.28,Brazil,BR,BRA,Goiás,,24822.0,1076357135
+Rolim de Moura,Rolim de Moura,-11.7302,-61.7806,Brazil,BR,BRA,Rondônia,,24516.0,1076556836
+Iguape,Iguape,-24.72,-47.5699,Brazil,BR,BRA,São Paulo,,23784.0,1076144584
+Jardim,Jardim,-21.4799,-56.15,Brazil,BR,BRA,Mato Grosso do Sul,,23780.0,1076077588
+Guanhães,Guanhaes,-18.78,-42.95,Brazil,BR,BRA,Minas Gerais,,23727.0,1076235295
+Itambé,Itambe,-15.2396,-40.63,Brazil,BR,BRA,Bahia,,23558.0,1076307665
+Santa Maria da Vitória,Santa Maria da Vitoria,-13.39,-44.21,Brazil,BR,BRA,Bahia,,23488.0,1076607443
+Quaraí,Quarai,-30.38,-56.4599,Brazil,BR,BRA,Rio Grande do Sul,,23229.0,1076203994
+Nova Cruz,Nova Cruz,-6.4696,-35.44,Brazil,BR,BRA,Rio Grande do Norte,,23166.0,1076169350
+Maracaju,Maracaju,-21.61,-55.18,Brazil,BR,BRA,Mato Grosso do Sul,,22690.0,1076548335
+Baturité,Baturite,-4.3296,-38.88,Brazil,BR,BRA,Ceará,,22417.0,1076144455
+Itaberaí,Itaberai,-16.02,-49.81,Brazil,BR,BRA,Goiás,,22129.0,1076044452
+Araçuaí,Aracuai,-16.8596,-42.0699,Brazil,BR,BRA,Minas Gerais,,22005.0,1076501078
+Eirunepé,Eirunepe,-6.66,-69.8738,Brazil,BR,BRA,Amazonas,,21750.0,1076884388
+Barras,Barras,-4.25,-42.3,Brazil,BR,BRA,Piauí,,21597.0,1076766658
+Manicoré,Manicore,-5.8122,-61.2975,Brazil,BR,BRA,Amazonas,,21549.0,1076657983
+Portel,Portel,-1.95,-50.82,Brazil,BR,BRA,Pará,,21315.0,1076977846
+Itupiranga,Itupiranga,-5.12,-49.3,Brazil,BR,BRA,Pará,,21301.0,1076086545
+Paracuru,Paracuru,-3.3995,-39.04,Brazil,BR,BRA,Ceará,,21196.0,1076591278
+Santa Cruz Cabrália,Santa Cruz Cabralia,-16.28,-39.03,Brazil,BR,BRA,Bahia,,19545.0,1076118882
+Viseu,Viseu,-1.1965,-46.14,Brazil,BR,BRA,Pará,,18958.0,1076429547
+Ceres,Ceres,-15.3033,-49.6052,Brazil,BR,BRA,Goiás,,18759.0,1076087042
+Apodi,Apodi,-5.65,-37.8,Brazil,BR,BRA,Rio Grande do Norte,,16757.0,1076092856
+Fonte Boa,Fonte Boa,-2.5138,-66.0916,Brazil,BR,BRA,Amazonas,,16060.0,1076851330
+São Gabriel da Cachoeira,Sao Gabriel da Cachoeira,-0.1332,-67.0833,Brazil,BR,BRA,Amazonas,,15231.0,1076863074
+Pedreiras,Pedreiras,-4.5696,-44.67,Brazil,BR,BRA,Maranhão,,13638.0,1076527878
+Barcelos,Barcelos,-0.975,-62.9239,Brazil,BR,BRA,Amazonas,,12584.0,1076105080
+Caracaraí,Caracarai,1.8162,-61.1277,Brazil,BR,BRA,Roraima,,11368.0,1076314585
+Alvorada,Alvorada,-12.47,-49.082,Brazil,BR,BRA,Tocantins,,10232.0,1076121080
+Porto Nacional,Porto Nacional,-10.7,-48.4199,Brazil,BR,BRA,Tocantins,,9129.0,1076043090
+Novo Airão,Novo Airao,-2.6208,-60.9438,Brazil,BR,BRA,Amazonas,,9049.0,1076092136
+Sinop,Sinop,-11.85,-55.46,Brazil,BR,BRA,Mato Grosso,,8961.0,1076876295
+Tocantinópolis,Tocantinopolis,-6.3196,-47.42,Brazil,BR,BRA,Tocantins,,8750.0,1076917053
+Rosário,Rosario,-2.94,-44.26,Brazil,BR,BRA,Maranhão,,6798.0,1076804900
+Tonantins,Tonantins,-2.8727,-67.8019,Brazil,BR,BRA,Amazonas,,4561.0,1076820908
+Xinguara,Xinguara,-7.1006,-49.948,Brazil,BR,BRA,Pará,,4047.0,1076290442
+Amapá,Amapa,2.05,-50.8,Brazil,BR,BRA,Amapá,,1947.0,1076834242
+Abunã,Abuna,-9.6954,-65.3597,Brazil,BR,BRA,Rondônia,,1929.0,1076632448
+Vila Bela da Santíssima Trindade,Vila Bela da Santissima Trindade,-15.0,-59.95,Brazil,BR,BRA,Mato Grosso,,1612.0,1076493823
+Príncipe da Beira,Principe da Beira,-12.4167,-64.4166,Brazil,BR,BRA,Rondônia,,956.0,1076482734

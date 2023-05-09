@@ -1,2 +1,7 @@
-# python.free
-free scripts python
+# Scripts Diversos
+
+- Datasets
+- Python
+- EDA
+- Visualização 
+- Machine Learning
